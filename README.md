@@ -70,8 +70,8 @@ This repository is under MIT license. You can see the LICENSE file for more deta
 <a href="https://www.linkedin.com/in/santosh-verma-b3521b193/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santoshverma" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17248906/kratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kratos" height="30" width="40" /></a>
 <a href="https://www.facebook.com/GenXKratos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="genxkratos" height="30" width="40" /></a>
-<a href="https://dribbble.com/mrkratosyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kratos_desgin" height="30" width="40" /></a>
-<a href="https://www.behance.net/mrkratosyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="genx kratos" height="30" width="40" /></a>
+<a href="https://dribbble.com/KratosDesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kratos_desgin" height="30" width="40" /></a>
+<a href="https://www.behance.net/KratosDesign" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="genx kratos" height="30" width="40" /></a>
 </p>
 
 
